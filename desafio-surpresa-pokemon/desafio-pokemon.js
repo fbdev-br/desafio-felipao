@@ -1,3 +1,4 @@
+// Criando matrizes para o time pokemon
 let timePokemon = [ 
     ["Poochyena", "Lv 2", "M", "13/13"],
     ["Zigzagoon", "Lv 2", "F", "13/13"],
@@ -7,6 +8,7 @@ let timePokemon = [
     ["Wurmple", "Lv 2", "M" , "7/14"]
 ]
 
+// Mensagem de saída
 console.log(timePokemon[0][0] + " " + "Cadastrado com sucesso!")
 console.log(timePokemon[1][0] + " " + "Cadastrado com sucesso!")
 console.log(timePokemon[2][0] + " " + "Cadastrado com sucesso!")
